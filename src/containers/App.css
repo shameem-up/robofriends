@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Hexatus';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hexatus'), url('hexatus.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Hexatus';
+    font-weight: 200;
+    color: #bab3af;
+}
